@@ -7,7 +7,7 @@ html { font-size: 100%; }
 }
  
 /* Large screens (1024px) */
-@media (min-width: 72rem) { 
+@media (min-width: 64rem) { 
   html { font-size: 120%; }
 }
 
@@ -36,7 +36,7 @@ html { font-size: 100%; }
 
 .container {
   margin: 0 auto;
-  max-width: 48rem;
+  max-width: 60rem;
   width: 90%;
 }
 
