@@ -1,5 +1,8 @@
 /* Small screens (default) */
-html { font-size: 100%; }
+html { 
+        font-size: 100%;
+        font-family: 'Oxygen', sans-serif;
+     }
  
 /* Medium screens (640px) */
 @media (min-width: 40rem) { 
