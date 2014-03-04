@@ -75,3 +75,10 @@ section:first-of-type { border-top: none; }
   text-align: center;
   background: #617278;
 }
+
+.more{
+  display:block;
+  position:absolute;
+  bottom:20px;
+  text-align:center;
+}
