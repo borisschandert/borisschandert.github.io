@@ -106,6 +106,8 @@ section:first-of-type { border-top: none; }
   height: 100%;
   text-align: center;
   background: #617278;
+  background-image: url('http://24.media.tumblr.com/be486be5397b1e5cbc93b2b4e06ff72c/tumblr_mx2nswYBke1qz6tgbo1_1280.jpg');
+  background-size: cover;
 }
 
 .more {
