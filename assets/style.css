@@ -86,7 +86,7 @@ p {
   font-size: 1rem;
   }
 
-a:link {  color:#fff; text-decoration: none; font-weight: 700;}      /* unvisited link */
+  a:link {  color:#fff; text-decoration: none; font-weight: 700;}      /* unvisited link */
   a:visited {color:#fff;}  /* visited link */
   a:hover {color:#999;}  /* mouse over link */
   a:active {color:#fff;}  /* selected link */
