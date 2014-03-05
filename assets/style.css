@@ -111,7 +111,7 @@ section:first-of-type { border-top: none; }
 .more {
   display: inline-block;
   position: absolute;
-  bottom: 3rem;
+  bottom: 1rem;
   left:50%;
   margin-left: -150px;
   width: 300px;
