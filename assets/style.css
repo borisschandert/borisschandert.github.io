@@ -1,7 +1,8 @@
 /* Small screens (default) */
 html { 
         font-size: 100%;
-        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
      }
 
 html, body {
@@ -59,6 +60,16 @@ html, body {
 .clearfix {
   *zoom: 1;
 }
+
+/* Typo
+   ========================================================================== */
+
+h1 {
+
+  font-size: 2.6rem;
+  font-weight: 800;
+
+  }
 
 /* Section
    ========================================================================== */
