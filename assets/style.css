@@ -2,6 +2,7 @@
 ========================================================================== */
 html { 
         font-size: 16px; /*  16px=1rem */
+        line-height: 1.625;
         font-family: 'Lato', sans-serif;
         font-weight: 300;
      }
@@ -105,4 +106,23 @@ section:first-of-type { border-top: none; }
   height: 100%;
   text-align: center;
   background: #617278;
+}
+
+.more {
+  display: inline-block;
+  position: absolute;
+  bottom: 3rem;
+  left:50%;
+  margin-left: -150px;
+  width: 300px;
+
+}
+
+
+@media (max-height: 400px) { 
+  .more {
+  position: static;
+  display: inline-block;
+  margin-left: 0;
+  }
 }
